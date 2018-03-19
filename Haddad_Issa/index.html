@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Issa Haddad Project- H00278537 </title>
+
+	<!-- Stylesheets -->
+	<link rel=stylesheet href="styles/main.css">
+
+	<!-- Scripts -->
+	<!-- libs -->
+	<!--script src="libs/d3/d3.v4.min.js" type="text/javascript" charset="utf-8"></script-->
+	<script src="https://d3js.org/d3.v4.min.js"></script>
+	<script src="http://d3js.org/topojson.v1.min.js"></script>
+	<!-- controller -->
+	<script src="scripts/main.js" type="text/javascript" charset="utf-8"></script>
+	<!-- model -->
+	<script src="scripts/model/data.js" type="text/javascript" charset="utf-8"></script>
+	<!-- renderers -->
+	<!--script src="scripts/view/barchart.js" type="text/javascript" charset="utf-8"></script-->
+	<script src="scripts/view/map.js" type="text/javascript" charset="utf-8"></script>
+	<script type="text/javascript" src="scripts/view/piechart_d3v4_v003_lab4.js"></script>
+	<script type="text/javascript" src="scripts/view/valueTree_v001.js"></script>
+</head>
+<body>
+	<div id="dashboard">
+	<button type="button" onclick="UniRes()">University Researcher</button> 
+	<button type="button" onclick="UniMan()">Univerity Management</button> 
+	<button type="button" onclick="PInCol()">Potential Industrial Collaborators</button>
+		<div id="manual"></div>
+		<div id="manual2"></div>
+		<div id="wrapper">
+			<svg id="map1svg">
+
+				<rect id="map1rect"></rect>
+				<g id="map1g"></g>
+			</svg>
+			<!--h3>My Pie</h3-->
+			<svg id="pie1svg">
+				<g id="pie1g"></g>
+			</svg>
+			<div id="pietool"></div>
+			<div id="manual3"></div>
+			<svg id="hi1svg">
+				<rect id="hi1rect"></rect>
+				<g id="hi1g"></g>
+			</svg>
+		</div>
+	</div>
+
+	<script>
+		loadCSV1();
+	</script>
+
+</body>
+</html>

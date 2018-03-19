@@ -1,0 +1,142 @@
+* {
+	font-family: 'Open Sans';
+	margin: 0;
+	padding: 0;
+}
+
+#dashboard {
+  width:1975px;
+  height: 1420px;
+  clear:both;
+  background-color: #f2f2f2;
+  border: 15px solid #ecd9c6;
+  margin-left: 200px;
+  margin-top: 200px; 
+}
+
+#manual {
+  width:960px;
+  height: 50px;
+  border: 1px solid black;
+  margin-left: 50px;
+  margin-right: 10px; 
+  float: left;
+  font-size: 20px;
+  text-align: center;
+  line-height: 50px;
+}
+
+#manual2 {
+  width:899px;
+  height: 50px;
+  border: 1px solid black;
+  margin-right: 52px; 
+  float: right;
+  font-size: 20px;
+  text-align: center;
+  line-height: 50px;
+}
+
+#manual3 {
+  width:901px;
+  height: 50px;
+  border: 1px solid black;
+  margin-top: 5px;
+  margin-right: 80px; 
+  margin-left: 1021px; 
+  margin-bottom: 10px;
+  font-size: 20px;
+  text-align: center;
+  line-height: 50px;
+}
+
+#wrapper {
+  width:2000px;
+  clear:both;
+}
+
+button{
+	margin: 15px 180px 20px 180px;
+	padding: 10px 30px 10px 30px;
+	font-size: 20px;
+}
+
+h1 {
+	text-align: center;
+	padding: 10px 0;
+}
+
+div.barchart{
+	text-align: center;
+}
+
+div.barchart > svg{
+	margin: auto;
+}
+
+div.tooltip{
+	position: absolute;
+	color: #fafafa;
+	background-color: #424242;
+	padding: 10px 5px;
+	border-radius: 4px;
+	pointer-events: none;
+	opacity: 0;
+	font-size: 1.2em;
+}
+
+text {
+	  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	  font-size: 15px;
+	  //pointer-events: none;
+	}
+	.classCountry.SCT { fill: thistle; }
+	.classCountry.WLS { fill: lightsteelblue; }
+	.classCountry.NIR { fill: paleturquoise; }
+	.classCountry.ENG { fill: pink; }
+	.classCountry.IRL { fill: lightgrey; }
+
+	.classTown text {
+		fill: grey;
+	} 
+	.classTown circle {
+		stroke: grey;
+		fill: white;
+	}
+	.framed {
+     border: 1px solid black;
+     margin: 10px 10px 50px 50px;
+	}
+
+	.framed2 {
+     border: 1px solid black;
+     margin: 10px 15px 0px 0px;
+     padding: 27px 302px 27px 297px;
+	}
+	.framed3 {
+     border: 1px solid black;
+	}
+
+
+.background {
+  fill: none;
+  pointer-events: all;
+}
+
+.classLink {
+				fill: none;
+				stroke: steelblue;
+				stroke-width: 1.5px;
+} 
+.classNode text {
+				fill: steelblue;
+				font: 10px sans-serif;
+} 
+.classNode circle {
+				stroke: steelblue;
+				fill: pink;
+				stroke-width: 1.5px;
+}
+.classNode {
+				cursor: pointer;
+}

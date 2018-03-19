@@ -1,0 +1,1878 @@
+[
+  {
+    "Money": 984,
+    "Area": "Customer Service",
+    "Branch": "Glasgow",
+    "Type": "Product Launch",
+    "Year": 2007
+  },
+  {
+    "Money": 422,
+    "Area": "Administration",
+    "Branch": "Edinburgh",
+    "Type": "Research",
+    "Year": 2007
+  },
+  {
+    "Money": 349,
+    "Area": "Administration",
+    "Branch": "Manchester",
+    "Type": "Closure",
+    "Year": 2014
+  },
+  {
+    "Money": 993,
+    "Area": "HR",
+    "Branch": "Edinburgh",
+    "Type": "Research",
+    "Year": 2014
+  },
+  {
+    "Money": 568,
+    "Area": "IT",
+    "Branch": "Bristol",
+    "Type": "Product Launch",
+    "Year": 2011
+  },
+  {
+    "Money": 2011,
+    "Area": "HR",
+    "Branch": "Glasgow",
+    "Type": "Upgrade",
+    "Year": 2015
+  },
+  {
+    "Money": 2386,
+    "Area": "Customer Service",
+    "Branch": "Edinburgh",
+    "Type": "Closure",
+    "Year": 2006
+  },
+  {
+    "Money": 2176,
+    "Area": "Administration",
+    "Branch": "Leeds",
+    "Type": "Upgrade",
+    "Year": 2013
+  },
+  {
+    "Money": 1886,
+    "Area": "Customer Service",
+    "Branch": "Belfast",
+    "Type": "Closure",
+    "Year": 2012
+  },
+  {
+    "Money": 1142,
+    "Area": "HR",
+    "Branch": "Leeds",
+    "Type": "Product Launch",
+    "Year": 2006
+  },
+  {
+    "Money": 993,
+    "Area": "Marketing",
+    "Branch": "Glasgow",
+    "Type": "Product Launch",
+    "Year": 2008
+  },
+  {
+    "Money": 1910,
+    "Area": "Marketing",
+    "Branch": "Manchester",
+    "Type": "Upgrade",
+    "Year": 2010
+  },
+  {
+    "Money": 2246,
+    "Area": "HR",
+    "Branch": "Manchester",
+    "Type": "Research",
+    "Year": 2008
+  },
+  {
+    "Money": 520,
+    "Area": "Customer Service",
+    "Branch": "Birmingham",
+    "Type": "Product Launch",
+    "Year": 2013
+  },
+  {
+    "Money": 2154,
+    "Area": "Customer Service",
+    "Branch": "Edinburgh",
+    "Type": "Product Launch",
+    "Year": 2011
+  },
+  {
+    "Money": 1759,
+    "Area": "HR",
+    "Branch": "Manchester",
+    "Type": "Closure",
+    "Year": 2014
+  },
+  {
+    "Money": 323,
+    "Area": "Administration",
+    "Branch": "London",
+    "Type": "Upgrade",
+    "Year": 2002
+  },
+  {
+    "Money": 411,
+    "Area": "Marketing",
+    "Branch": "Glasgow",
+    "Type": "Upgrade",
+    "Year": 2012
+  },
+  {
+    "Money": 531,
+    "Area": "Engineering",
+    "Branch": "Manchester",
+    "Type": "Product Launch",
+    "Year": 2012
+  },
+  {
+    "Money": 1996,
+    "Area": "Customer Service",
+    "Branch": "London",
+    "Type": "Research",
+    "Year": 2005
+  },
+  {
+    "Money": 1828,
+    "Area": "Marketing",
+    "Branch": "Manchester",
+    "Type": "Product Launch",
+    "Year": 2013
+  },
+  {
+    "Money": 2246,
+    "Area": "Customer Service",
+    "Branch": "Manchester",
+    "Type": "Research",
+    "Year": 2010
+  },
+  {
+    "Money": 408,
+    "Area": "IT",
+    "Branch": "Birmingham",
+    "Type": "Closure",
+    "Year": 2002
+  },
+  {
+    "Money": 1843,
+    "Area": "Customer Service",
+    "Branch": "London",
+    "Type": "Upgrade",
+    "Year": 2014
+  },
+  {
+    "Money": 293,
+    "Area": "HR",
+    "Branch": "Birmingham",
+    "Type": "Inventory",
+    "Year": 2012
+  },
+  {
+    "Money": 1488,
+    "Area": "Marketing",
+    "Branch": "Manchester",
+    "Type": "Product Launch",
+    "Year": 2006
+  },
+  {
+    "Money": 2408,
+    "Area": "Marketing",
+    "Branch": "Bristol",
+    "Type": "Product Launch",
+    "Year": 2002
+  },
+  {
+    "Money": 307,
+    "Area": "Customer Service",
+    "Branch": "London",
+    "Type": "Inventory",
+    "Year": 2011
+  },
+  {
+    "Money": 1913,
+    "Area": "HR",
+    "Branch": "Belfast",
+    "Type": "Research",
+    "Year": 2013
+  },
+  {
+    "Money": 1538,
+    "Area": "Customer Service",
+    "Branch": "Leeds",
+    "Type": "Upgrade",
+    "Year": 2014
+  },
+  {
+    "Money": 2140,
+    "Area": "Marketing",
+    "Branch": "Glasgow",
+    "Type": "Upgrade",
+    "Year": 2005
+  },
+  {
+    "Money": 895,
+    "Area": "Administration",
+    "Branch": "Manchester",
+    "Type": "Upgrade",
+    "Year": 2002
+  },
+  {
+    "Money": 1479,
+    "Area": "IT",
+    "Branch": "Belfast",
+    "Type": "Closure",
+    "Year": 2003
+  },
+  {
+    "Money": 607,
+    "Area": "Marketing",
+    "Branch": "Belfast",
+    "Type": "Inventory",
+    "Year": 2012
+  },
+  {
+    "Money": 2262,
+    "Area": "Engineering",
+    "Branch": "London",
+    "Type": "Research",
+    "Year": 2013
+  },
+  {
+    "Money": 116,
+    "Area": "HR",
+    "Branch": "Leeds",
+    "Type": "Research",
+    "Year": 2007
+  },
+  {
+    "Money": 590,
+    "Area": "Marketing",
+    "Branch": "London",
+    "Type": "Product Launch",
+    "Year": 2007
+  },
+  {
+    "Money": 1104,
+    "Area": "Administration",
+    "Branch": "Belfast",
+    "Type": "Closure",
+    "Year": 2007
+  },
+  {
+    "Money": 1311,
+    "Area": "HR",
+    "Branch": "Edinburgh",
+    "Type": "Upgrade",
+    "Year": 2010
+  },
+  {
+    "Money": 730,
+    "Area": "HR",
+    "Branch": "Belfast",
+    "Type": "Research",
+    "Year": 2003
+  },
+  {
+    "Money": 630,
+    "Area": "IT",
+    "Branch": "Leeds",
+    "Type": "Inventory",
+    "Year": 2003
+  },
+  {
+    "Money": 912,
+    "Area": "Marketing",
+    "Branch": "Leeds",
+    "Type": "Inventory",
+    "Year": 2010
+  },
+  {
+    "Money": 1557,
+    "Area": "Customer Service",
+    "Branch": "Bristol",
+    "Type": "Inventory",
+    "Year": 2015
+  },
+  {
+    "Money": 2415,
+    "Area": "Engineering",
+    "Branch": "Bristol",
+    "Type": "Research",
+    "Year": 2004
+  },
+  {
+    "Money": 374,
+    "Area": "Marketing",
+    "Branch": "Belfast",
+    "Type": "Upgrade",
+    "Year": 2010
+  },
+  {
+    "Money": 1189,
+    "Area": "Engineering",
+    "Branch": "Edinburgh",
+    "Type": "Closure",
+    "Year": 2012
+  },
+  {
+    "Money": 319,
+    "Area": "Administration",
+    "Branch": "Manchester",
+    "Type": "Inventory",
+    "Year": 2012
+  },
+  {
+    "Money": 1303,
+    "Area": "IT",
+    "Branch": "London",
+    "Type": "Inventory",
+    "Year": 2015
+  },
+  {
+    "Money": 2458,
+    "Area": "Customer Service",
+    "Branch": "Edinburgh",
+    "Type": "Inventory",
+    "Year": 2008
+  },
+  {
+    "Money": 712,
+    "Area": "Engineering",
+    "Branch": "Glasgow",
+    "Type": "Closure",
+    "Year": 2007
+  },
+  {
+    "Money": 689,
+    "Area": "Engineering",
+    "Branch": "Birmingham",
+    "Type": "Upgrade",
+    "Year": 2008
+  },
+  {
+    "Money": 1770,
+    "Area": "Engineering",
+    "Branch": "Edinburgh",
+    "Type": "Research",
+    "Year": 2006
+  },
+  {
+    "Money": 217,
+    "Area": "Marketing",
+    "Branch": "Birmingham",
+    "Type": "Inventory",
+    "Year": 2014
+  },
+  {
+    "Money": 1109,
+    "Area": "IT",
+    "Branch": "Belfast",
+    "Type": "Closure",
+    "Year": 2006
+  },
+  {
+    "Money": 2142,
+    "Area": "Marketing",
+    "Branch": "Leeds",
+    "Type": "Product Launch",
+    "Year": 2011
+  },
+  {
+    "Money": 841,
+    "Area": "HR",
+    "Branch": "Belfast",
+    "Type": "Closure",
+    "Year": 2010
+  },
+  {
+    "Money": 278,
+    "Area": "Customer Service",
+    "Branch": "Belfast",
+    "Type": "Closure",
+    "Year": 2014
+  },
+  {
+    "Money": 659,
+    "Area": "Customer Service",
+    "Branch": "London",
+    "Type": "Research",
+    "Year": 2013
+  },
+  {
+    "Money": 2325,
+    "Area": "Marketing",
+    "Branch": "Leeds",
+    "Type": "Product Launch",
+    "Year": 2005
+  },
+  {
+    "Money": 794,
+    "Area": "Engineering",
+    "Branch": "London",
+    "Type": "Product Launch",
+    "Year": 2010
+  },
+  {
+    "Money": 1421,
+    "Area": "Administration",
+    "Branch": "Manchester",
+    "Type": "Upgrade",
+    "Year": 2003
+  },
+  {
+    "Money": 355,
+    "Area": "Engineering",
+    "Branch": "Belfast",
+    "Type": "Closure",
+    "Year": 2002
+  },
+  {
+    "Money": 979,
+    "Area": "Engineering",
+    "Branch": "Birmingham",
+    "Type": "Closure",
+    "Year": 2010
+  },
+  {
+    "Money": 264,
+    "Area": "IT",
+    "Branch": "Manchester",
+    "Type": "Product Launch",
+    "Year": 2006
+  },
+  {
+    "Money": 1476,
+    "Area": "HR",
+    "Branch": "Glasgow",
+    "Type": "Inventory",
+    "Year": 2012
+  },
+  {
+    "Money": 124,
+    "Area": "Customer Service",
+    "Branch": "Edinburgh",
+    "Type": "Product Launch",
+    "Year": 2011
+  },
+  {
+    "Money": 797,
+    "Area": "Customer Service",
+    "Branch": "Edinburgh",
+    "Type": "Inventory",
+    "Year": 2010
+  },
+  {
+    "Money": 1447,
+    "Area": "Marketing",
+    "Branch": "Birmingham",
+    "Type": "Inventory",
+    "Year": 2003
+  },
+  {
+    "Money": 2357,
+    "Area": "Administration",
+    "Branch": "Manchester",
+    "Type": "Product Launch",
+    "Year": 2012
+  },
+  {
+    "Money": 235,
+    "Area": "Administration",
+    "Branch": "Birmingham",
+    "Type": "Inventory",
+    "Year": 2013
+  },
+  {
+    "Money": 1845,
+    "Area": "Administration",
+    "Branch": "Leeds",
+    "Type": "Product Launch",
+    "Year": 2015
+  },
+  {
+    "Money": 1489,
+    "Area": "Marketing",
+    "Branch": "Glasgow",
+    "Type": "Upgrade",
+    "Year": 2010
+  },
+  {
+    "Money": 1594,
+    "Area": "Marketing",
+    "Branch": "Bristol",
+    "Type": "Closure",
+    "Year": 2007
+  },
+  {
+    "Money": 1855,
+    "Area": "HR",
+    "Branch": "Glasgow",
+    "Type": "Product Launch",
+    "Year": 2012
+  },
+  {
+    "Money": 2210,
+    "Area": "Engineering",
+    "Branch": "Bristol",
+    "Type": "Closure",
+    "Year": 2002
+  },
+  {
+    "Money": 1387,
+    "Area": "HR",
+    "Branch": "London",
+    "Type": "Inventory",
+    "Year": 2012
+  },
+  {
+    "Money": 2395,
+    "Area": "Administration",
+    "Branch": "London",
+    "Type": "Product Launch",
+    "Year": 2005
+  },
+  {
+    "Money": 199,
+    "Area": "Marketing",
+    "Branch": "London",
+    "Type": "Inventory",
+    "Year": 2014
+  },
+  {
+    "Money": 279,
+    "Area": "Engineering",
+    "Branch": "London",
+    "Type": "Research",
+    "Year": 2003
+  },
+  {
+    "Money": 1913,
+    "Area": "Customer Service",
+    "Branch": "London",
+    "Type": "Upgrade",
+    "Year": 2013
+  },
+  {
+    "Money": 2082,
+    "Area": "IT",
+    "Branch": "London",
+    "Type": "Upgrade",
+    "Year": 2007
+  },
+  {
+    "Money": 2392,
+    "Area": "Engineering",
+    "Branch": "Edinburgh",
+    "Type": "Closure",
+    "Year": 2012
+  },
+  {
+    "Money": 917,
+    "Area": "Engineering",
+    "Branch": "Manchester",
+    "Type": "Closure",
+    "Year": 2005
+  },
+  {
+    "Money": 1351,
+    "Area": "HR",
+    "Branch": "Manchester",
+    "Type": "Closure",
+    "Year": 2007
+  },
+  {
+    "Money": 663,
+    "Area": "Engineering",
+    "Branch": "Edinburgh",
+    "Type": "Research",
+    "Year": 2006
+  },
+  {
+    "Money": 2360,
+    "Area": "Marketing",
+    "Branch": "Manchester",
+    "Type": "Product Launch",
+    "Year": 2002
+  },
+  {
+    "Money": 188,
+    "Area": "HR",
+    "Branch": "Bristol",
+    "Type": "Product Launch",
+    "Year": 2009
+  },
+  {
+    "Money": 953,
+    "Area": "Engineering",
+    "Branch": "Birmingham",
+    "Type": "Closure",
+    "Year": 2007
+  },
+  {
+    "Money": 1976,
+    "Area": "Marketing",
+    "Branch": "Birmingham",
+    "Type": "Product Launch",
+    "Year": 2002
+  },
+  {
+    "Money": 1972,
+    "Area": "Engineering",
+    "Branch": "Edinburgh",
+    "Type": "Research",
+    "Year": 2011
+  },
+  {
+    "Money": 2362,
+    "Area": "HR",
+    "Branch": "Bristol",
+    "Type": "Product Launch",
+    "Year": 2002
+  },
+  {
+    "Money": 1886,
+    "Area": "Customer Service",
+    "Branch": "Birmingham",
+    "Type": "Research",
+    "Year": 2014
+  },
+  {
+    "Money": 2057,
+    "Area": "HR",
+    "Branch": "Belfast",
+    "Type": "Inventory",
+    "Year": 2004
+  },
+  {
+    "Money": 1842,
+    "Area": "Administration",
+    "Branch": "London",
+    "Type": "Research",
+    "Year": 2006
+  },
+  {
+    "Money": 1696,
+    "Area": "Engineering",
+    "Branch": "Bristol",
+    "Type": "Research",
+    "Year": 2015
+  },
+  {
+    "Money": 1981,
+    "Area": "Marketing",
+    "Branch": "Edinburgh",
+    "Type": "Inventory",
+    "Year": 2012
+  },
+  {
+    "Money": 470,
+    "Area": "HR",
+    "Branch": "London",
+    "Type": "Upgrade",
+    "Year": 2015
+  },
+  {
+    "Money": 1056,
+    "Area": "Marketing",
+    "Branch": "Bristol",
+    "Type": "Research",
+    "Year": 2006
+  },
+  {
+    "Money": 743,
+    "Area": "Engineering",
+    "Branch": "Belfast",
+    "Type": "Upgrade",
+    "Year": 2014
+  },
+  {
+    "Money": 2058,
+    "Area": "HR",
+    "Branch": "Leeds",
+    "Type": "Product Launch",
+    "Year": 2002
+  },
+  {
+    "Money": 829,
+    "Area": "Marketing",
+    "Branch": "Birmingham",
+    "Type": "Inventory",
+    "Year": 2008
+  },
+  {
+    "Money": 2197,
+    "Area": "Engineering",
+    "Branch": "Glasgow",
+    "Type": "Product Launch",
+    "Year": 2011
+  },
+  {
+    "Money": 2275,
+    "Area": "Engineering",
+    "Branch": "London",
+    "Type": "Product Launch",
+    "Year": 2008
+  },
+  {
+    "Money": 1300,
+    "Area": "Customer Service",
+    "Branch": "Bristol",
+    "Type": "Upgrade",
+    "Year": 2012
+  },
+  {
+    "Money": 1924,
+    "Area": "HR",
+    "Branch": "Belfast",
+    "Type": "Inventory",
+    "Year": 2012
+  },
+  {
+    "Money": 1324,
+    "Area": "Marketing",
+    "Branch": "Birmingham",
+    "Type": "Inventory",
+    "Year": 2002
+  },
+  {
+    "Money": 1835,
+    "Area": "HR",
+    "Branch": "Bristol",
+    "Type": "Closure",
+    "Year": 2010
+  },
+  {
+    "Money": 458,
+    "Area": "Administration",
+    "Branch": "London",
+    "Type": "Product Launch",
+    "Year": 2008
+  },
+  {
+    "Money": 103,
+    "Area": "IT",
+    "Branch": "Glasgow",
+    "Type": "Upgrade",
+    "Year": 2013
+  },
+  {
+    "Money": 2451,
+    "Area": "Administration",
+    "Branch": "Leeds",
+    "Type": "Product Launch",
+    "Year": 2013
+  },
+  {
+    "Money": 2206,
+    "Area": "Marketing",
+    "Branch": "Glasgow",
+    "Type": "Closure",
+    "Year": 2007
+  },
+  {
+    "Money": 1601,
+    "Area": "Engineering",
+    "Branch": "Glasgow",
+    "Type": "Product Launch",
+    "Year": 2002
+  },
+  {
+    "Money": 255,
+    "Area": "Administration",
+    "Branch": "Glasgow",
+    "Type": "Inventory",
+    "Year": 2015
+  },
+  {
+    "Money": 1055,
+    "Area": "HR",
+    "Branch": "Manchester",
+    "Type": "Research",
+    "Year": 2005
+  },
+  {
+    "Money": 302,
+    "Area": "Customer Service",
+    "Branch": "Belfast",
+    "Type": "Research",
+    "Year": 2005
+  },
+  {
+    "Money": 1631,
+    "Area": "Administration",
+    "Branch": "Belfast",
+    "Type": "Closure",
+    "Year": 2015
+  },
+  {
+    "Money": 1548,
+    "Area": "Engineering",
+    "Branch": "Bristol",
+    "Type": "Product Launch",
+    "Year": 2010
+  },
+  {
+    "Money": 1985,
+    "Area": "IT",
+    "Branch": "Edinburgh",
+    "Type": "Closure",
+    "Year": 2012
+  },
+  {
+    "Money": 933,
+    "Area": "Engineering",
+    "Branch": "Edinburgh",
+    "Type": "Closure",
+    "Year": 2010
+  },
+  {
+    "Money": 542,
+    "Area": "Administration",
+    "Branch": "Belfast",
+    "Type": "Upgrade",
+    "Year": 2010
+  },
+  {
+    "Money": 533,
+    "Area": "Administration",
+    "Branch": "Leeds",
+    "Type": "Upgrade",
+    "Year": 2005
+  },
+  {
+    "Money": 2407,
+    "Area": "HR",
+    "Branch": "Glasgow",
+    "Type": "Research",
+    "Year": 2014
+  },
+  {
+    "Money": 306,
+    "Area": "HR",
+    "Branch": "London",
+    "Type": "Product Launch",
+    "Year": 2006
+  },
+  {
+    "Money": 2326,
+    "Area": "Administration",
+    "Branch": "Glasgow",
+    "Type": "Closure",
+    "Year": 2011
+  },
+  {
+    "Money": 600,
+    "Area": "Customer Service",
+    "Branch": "Belfast",
+    "Type": "Closure",
+    "Year": 2014
+  },
+  {
+    "Money": 1091,
+    "Area": "Administration",
+    "Branch": "Manchester",
+    "Type": "Product Launch",
+    "Year": 2007
+  },
+  {
+    "Money": 660,
+    "Area": "HR",
+    "Branch": "Glasgow",
+    "Type": "Product Launch",
+    "Year": 2014
+  },
+  {
+    "Money": 1972,
+    "Area": "Engineering",
+    "Branch": "London",
+    "Type": "Upgrade",
+    "Year": 2013
+  },
+  {
+    "Money": 1186,
+    "Area": "Administration",
+    "Branch": "London",
+    "Type": "Research",
+    "Year": 2002
+  },
+  {
+    "Money": 1629,
+    "Area": "Engineering",
+    "Branch": "Belfast",
+    "Type": "Closure",
+    "Year": 2010
+  },
+  {
+    "Money": 1072,
+    "Area": "IT",
+    "Branch": "Belfast",
+    "Type": "Upgrade",
+    "Year": 2007
+  },
+  {
+    "Money": 474,
+    "Area": "Administration",
+    "Branch": "London",
+    "Type": "Research",
+    "Year": 2014
+  },
+  {
+    "Money": 1363,
+    "Area": "Engineering",
+    "Branch": "Glasgow",
+    "Type": "Closure",
+    "Year": 2015
+  },
+  {
+    "Money": 398,
+    "Area": "Administration",
+    "Branch": "Manchester",
+    "Type": "Inventory",
+    "Year": 2004
+  },
+  {
+    "Money": 1770,
+    "Area": "HR",
+    "Branch": "Bristol",
+    "Type": "Research",
+    "Year": 2014
+  },
+  {
+    "Money": 1850,
+    "Area": "IT",
+    "Branch": "Glasgow",
+    "Type": "Closure",
+    "Year": 2011
+  },
+  {
+    "Money": 2256,
+    "Area": "IT",
+    "Branch": "Belfast",
+    "Type": "Closure",
+    "Year": 2007
+  },
+  {
+    "Money": 1161,
+    "Area": "Customer Service",
+    "Branch": "Belfast",
+    "Type": "Upgrade",
+    "Year": 2012
+  },
+  {
+    "Money": 652,
+    "Area": "Engineering",
+    "Branch": "Edinburgh",
+    "Type": "Upgrade",
+    "Year": 2012
+  },
+  {
+    "Money": 2053,
+    "Area": "HR",
+    "Branch": "Manchester",
+    "Type": "Inventory",
+    "Year": 2009
+  },
+  {
+    "Money": 107,
+    "Area": "Customer Service",
+    "Branch": "Edinburgh",
+    "Type": "Research",
+    "Year": 2002
+  },
+  {
+    "Money": 728,
+    "Area": "Engineering",
+    "Branch": "Glasgow",
+    "Type": "Inventory",
+    "Year": 2012
+  },
+  {
+    "Money": 2014,
+    "Area": "IT",
+    "Branch": "Manchester",
+    "Type": "Upgrade",
+    "Year": 2015
+  },
+  {
+    "Money": 514,
+    "Area": "Marketing",
+    "Branch": "Birmingham",
+    "Type": "Upgrade",
+    "Year": 2003
+  },
+  {
+    "Money": 958,
+    "Area": "HR",
+    "Branch": "Bristol",
+    "Type": "Product Launch",
+    "Year": 2004
+  },
+  {
+    "Money": 511,
+    "Area": "Engineering",
+    "Branch": "Edinburgh",
+    "Type": "Upgrade",
+    "Year": 2014
+  },
+  {
+    "Money": 2395,
+    "Area": "IT",
+    "Branch": "Edinburgh",
+    "Type": "Product Launch",
+    "Year": 2002
+  },
+  {
+    "Money": 279,
+    "Area": "Engineering",
+    "Branch": "Birmingham",
+    "Type": "Upgrade",
+    "Year": 2005
+  },
+  {
+    "Money": 1390,
+    "Area": "IT",
+    "Branch": "Manchester",
+    "Type": "Research",
+    "Year": 2003
+  },
+  {
+    "Money": 1006,
+    "Area": "Customer Service",
+    "Branch": "Glasgow",
+    "Type": "Upgrade",
+    "Year": 2006
+  },
+  {
+    "Money": 2327,
+    "Area": "Marketing",
+    "Branch": "Edinburgh",
+    "Type": "Product Launch",
+    "Year": 2010
+  },
+  {
+    "Money": 2245,
+    "Area": "Administration",
+    "Branch": "Edinburgh",
+    "Type": "Closure",
+    "Year": 2005
+  },
+  {
+    "Money": 1629,
+    "Area": "Administration",
+    "Branch": "Edinburgh",
+    "Type": "Closure",
+    "Year": 2005
+  },
+  {
+    "Money": 1257,
+    "Area": "Marketing",
+    "Branch": "Belfast",
+    "Type": "Upgrade",
+    "Year": 2007
+  },
+  {
+    "Money": 918,
+    "Area": "Administration",
+    "Branch": "London",
+    "Type": "Inventory",
+    "Year": 2008
+  },
+  {
+    "Money": 1648,
+    "Area": "HR",
+    "Branch": "Leeds",
+    "Type": "Inventory",
+    "Year": 2014
+  },
+  {
+    "Money": 744,
+    "Area": "Engineering",
+    "Branch": "Belfast",
+    "Type": "Product Launch",
+    "Year": 2007
+  },
+  {
+    "Money": 2276,
+    "Area": "Administration",
+    "Branch": "London",
+    "Type": "Closure",
+    "Year": 2009
+  },
+  {
+    "Money": 2481,
+    "Area": "Marketing",
+    "Branch": "Bristol",
+    "Type": "Upgrade",
+    "Year": 2004
+  },
+  {
+    "Money": 139,
+    "Area": "IT",
+    "Branch": "Edinburgh",
+    "Type": "Closure",
+    "Year": 2004
+  },
+  {
+    "Money": 1805,
+    "Area": "Customer Service",
+    "Branch": "Edinburgh",
+    "Type": "Research",
+    "Year": 2010
+  },
+  {
+    "Money": 554,
+    "Area": "HR",
+    "Branch": "Belfast",
+    "Type": "Closure",
+    "Year": 2004
+  },
+  {
+    "Money": 515,
+    "Area": "IT",
+    "Branch": "Glasgow",
+    "Type": "Closure",
+    "Year": 2013
+  },
+  {
+    "Money": 311,
+    "Area": "IT",
+    "Branch": "Edinburgh",
+    "Type": "Upgrade",
+    "Year": 2011
+  },
+  {
+    "Money": 1457,
+    "Area": "Administration",
+    "Branch": "Birmingham",
+    "Type": "Closure",
+    "Year": 2007
+  },
+  {
+    "Money": 2322,
+    "Area": "Customer Service",
+    "Branch": "Leeds",
+    "Type": "Product Launch",
+    "Year": 2008
+  },
+  {
+    "Money": 1763,
+    "Area": "IT",
+    "Branch": "Manchester",
+    "Type": "Upgrade",
+    "Year": 2006
+  },
+  {
+    "Money": 1709,
+    "Area": "HR",
+    "Branch": "Manchester",
+    "Type": "Inventory",
+    "Year": 2013
+  },
+  {
+    "Money": 2149,
+    "Area": "Customer Service",
+    "Branch": "Bristol",
+    "Type": "Upgrade",
+    "Year": 2009
+  },
+  {
+    "Money": 781,
+    "Area": "Administration",
+    "Branch": "Leeds",
+    "Type": "Closure",
+    "Year": 2003
+  },
+  {
+    "Money": 1554,
+    "Area": "Customer Service",
+    "Branch": "Leeds",
+    "Type": "Research",
+    "Year": 2002
+  },
+  {
+    "Money": 239,
+    "Area": "HR",
+    "Branch": "Belfast",
+    "Type": "Upgrade",
+    "Year": 2007
+  },
+  {
+    "Money": 1949,
+    "Area": "Engineering",
+    "Branch": "Belfast",
+    "Type": "Upgrade",
+    "Year": 2015
+  },
+  {
+    "Money": 144,
+    "Area": "IT",
+    "Branch": "Manchester",
+    "Type": "Product Launch",
+    "Year": 2010
+  },
+  {
+    "Money": 457,
+    "Area": "HR",
+    "Branch": "Belfast",
+    "Type": "Upgrade",
+    "Year": 2013
+  },
+  {
+    "Money": 362,
+    "Area": "Marketing",
+    "Branch": "Belfast",
+    "Type": "Upgrade",
+    "Year": 2003
+  },
+  {
+    "Money": 373,
+    "Area": "Administration",
+    "Branch": "Belfast",
+    "Type": "Product Launch",
+    "Year": 2011
+  },
+  {
+    "Money": 1329,
+    "Area": "Administration",
+    "Branch": "Belfast",
+    "Type": "Inventory",
+    "Year": 2015
+  },
+  {
+    "Money": 1254,
+    "Area": "Marketing",
+    "Branch": "Bristol",
+    "Type": "Upgrade",
+    "Year": 2014
+  },
+  {
+    "Money": 1094,
+    "Area": "Marketing",
+    "Branch": "Leeds",
+    "Type": "Closure",
+    "Year": 2002
+  },
+  {
+    "Money": 1633,
+    "Area": "Customer Service",
+    "Branch": "London",
+    "Type": "Inventory",
+    "Year": 2005
+  },
+  {
+    "Money": 1584,
+    "Area": "IT",
+    "Branch": "Belfast",
+    "Type": "Closure",
+    "Year": 2010
+  },
+  {
+    "Money": 1769,
+    "Area": "IT",
+    "Branch": "Manchester",
+    "Type": "Product Launch",
+    "Year": 2002
+  },
+  {
+    "Money": 1503,
+    "Area": "HR",
+    "Branch": "Leeds",
+    "Type": "Inventory",
+    "Year": 2002
+  },
+  {
+    "Money": 2034,
+    "Area": "IT",
+    "Branch": "Glasgow",
+    "Type": "Upgrade",
+    "Year": 2006
+  },
+  {
+    "Money": 1483,
+    "Area": "IT",
+    "Branch": "Birmingham",
+    "Type": "Inventory",
+    "Year": 2014
+  },
+  {
+    "Money": 393,
+    "Area": "Marketing",
+    "Branch": "Glasgow",
+    "Type": "Research",
+    "Year": 2010
+  },
+  {
+    "Money": 2148,
+    "Area": "IT",
+    "Branch": "London",
+    "Type": "Inventory",
+    "Year": 2013
+  },
+  {
+    "Money": 2319,
+    "Area": "IT",
+    "Branch": "London",
+    "Type": "Closure",
+    "Year": 2006
+  },
+  {
+    "Money": 1409,
+    "Area": "Customer Service",
+    "Branch": "London",
+    "Type": "Closure",
+    "Year": 2010
+  },
+  {
+    "Money": 2229,
+    "Area": "Customer Service",
+    "Branch": "Bristol",
+    "Type": "Research",
+    "Year": 2015
+  },
+  {
+    "Money": 2040,
+    "Area": "Engineering",
+    "Branch": "Glasgow",
+    "Type": "Upgrade",
+    "Year": 2004
+  },
+  {
+    "Money": 1532,
+    "Area": "IT",
+    "Branch": "London",
+    "Type": "Closure",
+    "Year": 2004
+  },
+  {
+    "Money": 2171,
+    "Area": "Engineering",
+    "Branch": "Edinburgh",
+    "Type": "Upgrade",
+    "Year": 2005
+  },
+  {
+    "Money": 1853,
+    "Area": "Engineering",
+    "Branch": "Manchester",
+    "Type": "Product Launch",
+    "Year": 2015
+  },
+  {
+    "Money": 2444,
+    "Area": "IT",
+    "Branch": "Leeds",
+    "Type": "Closure",
+    "Year": 2011
+  },
+  {
+    "Money": 1894,
+    "Area": "Marketing",
+    "Branch": "Leeds",
+    "Type": "Inventory",
+    "Year": 2005
+  },
+  {
+    "Money": 1028,
+    "Area": "Administration",
+    "Branch": "London",
+    "Type": "Product Launch",
+    "Year": 2013
+  },
+  {
+    "Money": 1012,
+    "Area": "Marketing",
+    "Branch": "Birmingham",
+    "Type": "Research",
+    "Year": 2009
+  },
+  {
+    "Money": 2234,
+    "Area": "HR",
+    "Branch": "Manchester",
+    "Type": "Research",
+    "Year": 2004
+  },
+  {
+    "Money": 637,
+    "Area": "Customer Service",
+    "Branch": "Manchester",
+    "Type": "Upgrade",
+    "Year": 2007
+  },
+  {
+    "Money": 1717,
+    "Area": "Engineering",
+    "Branch": "Bristol",
+    "Type": "Inventory",
+    "Year": 2007
+  },
+  {
+    "Money": 845,
+    "Area": "Customer Service",
+    "Branch": "Edinburgh",
+    "Type": "Upgrade",
+    "Year": 2012
+  },
+  {
+    "Money": 2419,
+    "Area": "Customer Service",
+    "Branch": "Belfast",
+    "Type": "Upgrade",
+    "Year": 2011
+  },
+  {
+    "Money": 842,
+    "Area": "Administration",
+    "Branch": "London",
+    "Type": "Inventory",
+    "Year": 2009
+  },
+  {
+    "Money": 1909,
+    "Area": "HR",
+    "Branch": "Edinburgh",
+    "Type": "Research",
+    "Year": 2009
+  },
+  {
+    "Money": 926,
+    "Area": "Marketing",
+    "Branch": "Birmingham",
+    "Type": "Inventory",
+    "Year": 2012
+  },
+  {
+    "Money": 1371,
+    "Area": "Administration",
+    "Branch": "Edinburgh",
+    "Type": "Inventory",
+    "Year": 2006
+  },
+  {
+    "Money": 1677,
+    "Area": "Engineering",
+    "Branch": "Glasgow",
+    "Type": "Product Launch",
+    "Year": 2002
+  },
+  {
+    "Money": 1006,
+    "Area": "Engineering",
+    "Branch": "London",
+    "Type": "Inventory",
+    "Year": 2015
+  },
+  {
+    "Money": 631,
+    "Area": "HR",
+    "Branch": "Birmingham",
+    "Type": "Inventory",
+    "Year": 2005
+  },
+  {
+    "Money": 1585,
+    "Area": "Customer Service",
+    "Branch": "Belfast",
+    "Type": "Upgrade",
+    "Year": 2005
+  },
+  {
+    "Money": 488,
+    "Area": "IT",
+    "Branch": "Leeds",
+    "Type": "Closure",
+    "Year": 2004
+  },
+  {
+    "Money": 1025,
+    "Area": "IT",
+    "Branch": "Manchester",
+    "Type": "Inventory",
+    "Year": 2010
+  },
+  {
+    "Money": 702,
+    "Area": "IT",
+    "Branch": "Belfast",
+    "Type": "Closure",
+    "Year": 2014
+  },
+  {
+    "Money": 973,
+    "Area": "IT",
+    "Branch": "Manchester",
+    "Type": "Research",
+    "Year": 2011
+  },
+  {
+    "Money": 1522,
+    "Area": "IT",
+    "Branch": "Manchester",
+    "Type": "Closure",
+    "Year": 2014
+  },
+  {
+    "Money": 735,
+    "Area": "Engineering",
+    "Branch": "Leeds",
+    "Type": "Upgrade",
+    "Year": 2014
+  },
+  {
+    "Money": 453,
+    "Area": "Marketing",
+    "Branch": "Manchester",
+    "Type": "Research",
+    "Year": 2010
+  },
+  {
+    "Money": 1301,
+    "Area": "Marketing",
+    "Branch": "Leeds",
+    "Type": "Closure",
+    "Year": 2011
+  },
+  {
+    "Money": 1338,
+    "Area": "Engineering",
+    "Branch": "London",
+    "Type": "Product Launch",
+    "Year": 2011
+  },
+  {
+    "Money": 1106,
+    "Area": "Marketing",
+    "Branch": "Birmingham",
+    "Type": "Closure",
+    "Year": 2007
+  },
+  {
+    "Money": 1744,
+    "Area": "Marketing",
+    "Branch": "Glasgow",
+    "Type": "Product Launch",
+    "Year": 2002
+  },
+  {
+    "Money": 2164,
+    "Area": "Customer Service",
+    "Branch": "Birmingham",
+    "Type": "Inventory",
+    "Year": 2003
+  },
+  {
+    "Money": 373,
+    "Area": "Administration",
+    "Branch": "Bristol",
+    "Type": "Product Launch",
+    "Year": 2009
+  },
+  {
+    "Money": 1923,
+    "Area": "Administration",
+    "Branch": "Bristol",
+    "Type": "Upgrade",
+    "Year": 2008
+  },
+  {
+    "Money": 1904,
+    "Area": "IT",
+    "Branch": "Bristol",
+    "Type": "Closure",
+    "Year": 2009
+  },
+  {
+    "Money": 350,
+    "Area": "Engineering",
+    "Branch": "Manchester",
+    "Type": "Product Launch",
+    "Year": 2014
+  },
+  {
+    "Money": 277,
+    "Area": "Administration",
+    "Branch": "London",
+    "Type": "Closure",
+    "Year": 2009
+  },
+  {
+    "Money": 291,
+    "Area": "Customer Service",
+    "Branch": "Manchester",
+    "Type": "Inventory",
+    "Year": 2007
+  },
+  {
+    "Money": 467,
+    "Area": "Marketing",
+    "Branch": "Manchester",
+    "Type": "Closure",
+    "Year": 2011
+  },
+  {
+    "Money": 2147,
+    "Area": "Administration",
+    "Branch": "Leeds",
+    "Type": "Upgrade",
+    "Year": 2010
+  },
+  {
+    "Money": 164,
+    "Area": "Marketing",
+    "Branch": "London",
+    "Type": "Product Launch",
+    "Year": 2009
+  },
+  {
+    "Money": 271,
+    "Area": "Customer Service",
+    "Branch": "Glasgow",
+    "Type": "Closure",
+    "Year": 2013
+  },
+  {
+    "Money": 213,
+    "Area": "Customer Service",
+    "Branch": "Glasgow",
+    "Type": "Closure",
+    "Year": 2015
+  },
+  {
+    "Money": 1514,
+    "Area": "Marketing",
+    "Branch": "Belfast",
+    "Type": "Upgrade",
+    "Year": 2003
+  },
+  {
+    "Money": 2296,
+    "Area": "HR",
+    "Branch": "Birmingham",
+    "Type": "Inventory",
+    "Year": 2008
+  },
+  {
+    "Money": 241,
+    "Area": "Customer Service",
+    "Branch": "Edinburgh",
+    "Type": "Closure",
+    "Year": 2013
+  },
+  {
+    "Money": 1616,
+    "Area": "Administration",
+    "Branch": "Edinburgh",
+    "Type": "Research",
+    "Year": 2011
+  },
+  {
+    "Money": 2135,
+    "Area": "HR",
+    "Branch": "Bristol",
+    "Type": "Upgrade",
+    "Year": 2005
+  },
+  {
+    "Money": 2182,
+    "Area": "Marketing",
+    "Branch": "Edinburgh",
+    "Type": "Inventory",
+    "Year": 2003
+  },
+  {
+    "Money": 303,
+    "Area": "Engineering",
+    "Branch": "Leeds",
+    "Type": "Inventory",
+    "Year": 2004
+  },
+  {
+    "Money": 1785,
+    "Area": "Administration",
+    "Branch": "Belfast",
+    "Type": "Inventory",
+    "Year": 2004
+  },
+  {
+    "Money": 469,
+    "Area": "Marketing",
+    "Branch": "Bristol",
+    "Type": "Closure",
+    "Year": 2014
+  },
+  {
+    "Money": 221,
+    "Area": "Marketing",
+    "Branch": "Edinburgh",
+    "Type": "Inventory",
+    "Year": 2008
+  },
+  {
+    "Money": 1276,
+    "Area": "Engineering",
+    "Branch": "Edinburgh",
+    "Type": "Product Launch",
+    "Year": 2015
+  },
+  {
+    "Money": 172,
+    "Area": "IT",
+    "Branch": "Manchester",
+    "Type": "Upgrade",
+    "Year": 2011
+  },
+  {
+    "Money": 1998,
+    "Area": "Administration",
+    "Branch": "Birmingham",
+    "Type": "Upgrade",
+    "Year": 2005
+  },
+  {
+    "Money": 1675,
+    "Area": "Administration",
+    "Branch": "Manchester",
+    "Type": "Inventory",
+    "Year": 2013
+  },
+  {
+    "Money": 1010,
+    "Area": "Engineering",
+    "Branch": "Leeds",
+    "Type": "Inventory",
+    "Year": 2002
+  },
+  {
+    "Money": 2063,
+    "Area": "HR",
+    "Branch": "Leeds",
+    "Type": "Upgrade",
+    "Year": 2015
+  },
+  {
+    "Money": 1525,
+    "Area": "Administration",
+    "Branch": "Birmingham",
+    "Type": "Inventory",
+    "Year": 2012
+  },
+  {
+    "Money": 1256,
+    "Area": "HR",
+    "Branch": "Bristol",
+    "Type": "Inventory",
+    "Year": 2003
+  },
+  {
+    "Money": 119,
+    "Area": "Marketing",
+    "Branch": "Leeds",
+    "Type": "Closure",
+    "Year": 2008
+  },
+  {
+    "Money": 851,
+    "Area": "HR",
+    "Branch": "Edinburgh",
+    "Type": "Research",
+    "Year": 2002
+  },
+  {
+    "Money": 181,
+    "Area": "IT",
+    "Branch": "Bristol",
+    "Type": "Closure",
+    "Year": 2015
+  },
+  {
+    "Money": 701,
+    "Area": "Marketing",
+    "Branch": "Belfast",
+    "Type": "Inventory",
+    "Year": 2011
+  },
+  {
+    "Money": 1978,
+    "Area": "Engineering",
+    "Branch": "Glasgow",
+    "Type": "Upgrade",
+    "Year": 2011
+  },
+  {
+    "Money": 963,
+    "Area": "HR",
+    "Branch": "London",
+    "Type": "Closure",
+    "Year": 2003
+  },
+  {
+    "Money": 1019,
+    "Area": "IT",
+    "Branch": "Belfast",
+    "Type": "Research",
+    "Year": 2010
+  },
+  {
+    "Money": 1777,
+    "Area": "HR",
+    "Branch": "London",
+    "Type": "Inventory",
+    "Year": 2013
+  },
+  {
+    "Money": 945,
+    "Area": "Customer Service",
+    "Branch": "Birmingham",
+    "Type": "Closure",
+    "Year": 2006
+  },
+  {
+    "Money": 1424,
+    "Area": "Engineering",
+    "Branch": "Edinburgh",
+    "Type": "Upgrade",
+    "Year": 2008
+  },
+  {
+    "Money": 2417,
+    "Area": "Administration",
+    "Branch": "Edinburgh",
+    "Type": "Inventory",
+    "Year": 2006
+  },
+  {
+    "Money": 1791,
+    "Area": "Customer Service",
+    "Branch": "London",
+    "Type": "Upgrade",
+    "Year": 2014
+  },
+  {
+    "Money": 304,
+    "Area": "Administration",
+    "Branch": "London",
+    "Type": "Research",
+    "Year": 2010
+  },
+  {
+    "Money": 1058,
+    "Area": "IT",
+    "Branch": "Edinburgh",
+    "Type": "Upgrade",
+    "Year": 2007
+  },
+  {
+    "Money": 1031,
+    "Area": "Engineering",
+    "Branch": "London",
+    "Type": "Research",
+    "Year": 2007
+  }
+]
